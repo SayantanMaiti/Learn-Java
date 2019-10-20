@@ -1,3 +1,6 @@
+
+//enter a day number and display the name of day
+
 public class week_day
 {
     public static void main(int d)
