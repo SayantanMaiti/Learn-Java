@@ -1,4 +1,4 @@
 # JAVA
 
-Learn Java in 3 steps.
- 
+Learn Java in three steps.
+
